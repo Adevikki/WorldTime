@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # world_time
 
 world time
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# WorldTime
+World time API
+>>>>>>> 8b39699b45ec5af977c7e8410f2d21bf534ac230
