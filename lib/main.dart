@@ -1,3 +1,4 @@
+// @dart=2.9
 //import 'dart:js';
 
 import 'package:flutter/material.dart';
@@ -12,7 +13,6 @@ void main() {
       '/': (context) => Loading(),
       '/home': (context) => Home(),
       '/location': (context) => ChooseLocation(),
-
     },
   ));
 }
