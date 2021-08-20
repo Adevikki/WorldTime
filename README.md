@@ -1,3 +1,6 @@
+![12-28-50](https://user-images.githubusercontent.com/54329332/130232137-79767391-84f5-40e5-88e8-9ffc52f1fe72.gif)
+![Screenshot_1629461334](https://user-images.githubusercontent.com/54329332/130232054-322c68e7-7555-436b-9fca-8b6bdaff7138.png)
+![Screenshot_1629461313](https://user-images.githubusercontent.com/54329332/130232068-baa8a91a-c34f-4a74-a0ee-a899682c128f.png)
 <<<<<<< HEAD
 # world_time
 
